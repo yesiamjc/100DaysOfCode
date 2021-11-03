@@ -25,6 +25,6 @@ int main()
     string s;
    	cin >> s;
    	Solution ob;
-   	cout << ob.isPalindrome(s) << "\n";
+   	cout << ob.isPalindrome(s) <<endl;
     return 0;
 } 
